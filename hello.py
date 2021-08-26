@@ -3,3 +3,4 @@ def outter():
     def inner():
         b=a
         return inner
+outter()    
